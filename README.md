@@ -1,2 +1,2 @@
 # Webtech
-Webtech projects
+Webtech projects consists of html and css files along with media sources
